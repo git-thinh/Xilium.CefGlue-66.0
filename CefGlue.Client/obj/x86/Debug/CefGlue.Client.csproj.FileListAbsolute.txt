@@ -1,0 +1,13 @@
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe.config
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.pdb
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.dll
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.pdb
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.pdb
+G:\cefglue.66\CefGlue.Client\bin\Debug\Xilium.CefGlue.xml
+G:\cefglue.66\CefGlue.Client\obj\x86\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+G:\cefglue.66\CefGlue.Client\obj\x86\Debug\Xilium.CefGlue.Client.MainForm.resources
+G:\cefglue.66\CefGlue.Client\obj\x86\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+G:\cefglue.66\CefGlue.Client\obj\x86\Debug\Xilium.CefGlue.Client.exe
+G:\cefglue.66\CefGlue.Client\obj\x86\Debug\Xilium.CefGlue.Client.pdb

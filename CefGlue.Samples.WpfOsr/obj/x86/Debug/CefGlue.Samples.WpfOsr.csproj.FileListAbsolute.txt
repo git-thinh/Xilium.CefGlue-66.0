@@ -1,0 +1,3 @@
+G:\cefglue.66\CefGlue.Samples.WpfOsr\obj\x86\Debug\CefGlue.Samples.WpfOsr.csprojResolveAssemblyReference.cache
+G:\cefglue.66\CefGlue.Samples.WpfOsr\obj\x86\Debug\App.g.cs
+G:\cefglue.66\CefGlue.Samples.WpfOsr\obj\x86\Debug\Xilium.CefGlue.Samples.WpfOsr_MarkupCompile.cache

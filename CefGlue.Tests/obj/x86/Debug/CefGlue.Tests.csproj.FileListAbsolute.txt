@@ -1,0 +1,8 @@
+G:\cefglue.66\CefGlue.Tests\bin\x86\Debug\CefGlue.Tests.dll
+G:\cefglue.66\CefGlue.Tests\bin\x86\Debug\CefGlue.Tests.pdb
+G:\cefglue.66\CefGlue.Tests\bin\x86\Debug\Xilium.CefGlue.dll
+G:\cefglue.66\CefGlue.Tests\bin\x86\Debug\Xilium.CefGlue.pdb
+G:\cefglue.66\CefGlue.Tests\bin\x86\Debug\Xilium.CefGlue.xml
+G:\cefglue.66\CefGlue.Tests\obj\x86\Debug\CefGlue.Tests.csprojResolveAssemblyReference.cache
+G:\cefglue.66\CefGlue.Tests\obj\x86\Debug\CefGlue.Tests.dll
+G:\cefglue.66\CefGlue.Tests\obj\x86\Debug\CefGlue.Tests.pdb
