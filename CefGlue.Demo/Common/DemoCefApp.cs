@@ -24,6 +24,12 @@
             //commandLine.AppendSwitch("disable-gpu", "1");
             //commandLine.AppendSwitch("off-screen-rendering-enabled", "1");
             //-------------------------------------------------------------------------------------
+            commandLine.AppendSwitch("touch-events", "enabled");
+            commandLine.AppendSwitch("mouse-events", "disabled");
+            //commandLine.AppendSwitch("enable-smooth-scrolling", "1");
+            //commandLine.AppendSwitch("enable-overlay-scrollbar", "1");
+            //commandLine.AppendSwitch("enable-npapi", "1");
+            //-------------------------------------------------------------------------------------
             commandLine.AppendSwitch("js-flags", "--harmony-proxies");
             
             //commandLine.AppendSwitch("renderer-process-limit", "1");

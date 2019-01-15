@@ -6,6 +6,7 @@
     using System.Diagnostics;
     using Xilium.CefGlue.Wrapper;
     using System.Threading;
+    using System.Windows.Forms;
 
     public abstract class DemoApp : IDisposable
     {
@@ -39,9 +40,9 @@
         #endregion
 
         public string Name { get { return "Xilium CefGlue Demo"; } }
-        public int DefaultWidth { get { return 800; } }
-        public int DefaultHeight { get { return 600; } }
-        public string HomeUrl { get { return "http://google.com"; } }
+        public int DefaultWidth { get { return 1024 + 16 + 16; } }
+        public int DefaultHeight { get { return 768 + SystemInformation.CaptionHeight + SystemInformation.BorderSize.Height; } }
+        public string HomeUrl { get { return "http://localhost:321/spaHome.html"; } }
 
         protected IMainView MainView { get { return _mainView; } }
 
@@ -65,6 +66,8 @@
             CefRuntime.Load();
 
             var settings = new CefSettings();
+            //settings.WindowlessRenderingEnabled = true;
+
             settings.MultiThreadedMessageLoop = MultiThreadedMessageLoop = CefRuntime.Platform == CefRuntimePlatform.Windows;
             settings.SingleProcess = false;
             settings.LogSeverity = CefLogSeverity.Verbose;

@@ -6,3 +6,13 @@ G:\cefglue.66\CefGlue.Demo\bin\Debug\Xilium.CefGlue.xml
 G:\cefglue.66\CefGlue.Demo\obj\Debug\CefGlue.Demo.csprojResolveAssemblyReference.cache
 G:\cefglue.66\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.dll
 G:\cefglue.66\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\bin\Debug\Xilium.CefGlue.Demo.dll
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\bin\Debug\Xilium.CefGlue.Demo.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\bin\Debug\Xilium.CefGlue.dll
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\bin\Debug\Xilium.CefGlue.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\bin\Debug\Xilium.CefGlue.xml
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\obj\Debug\CefGlue.Demo.csprojAssemblyReference.cache
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\obj\Debug\CefGlue.Demo.csproj.CoreCompileInputs.cache
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\obj\Debug\CefGlue.Demo.csproj.CopyComplete
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.dll
+C:\Xilium.CefGlue-66.0\CefGlue.Demo\obj\Debug\Xilium.CefGlue.Demo.pdb

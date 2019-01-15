@@ -3,3 +3,7 @@
 *.cache
 CefGlue.WindowsForms/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 .vs/Xilium.CefGlue/v14/.suo
+/.vs
+cef_binary_3.3359.1772.gd1df190_windows32_client.tar
+/CefGlue.Demo.WinForms/bin
+/CefGlue.Demo.WinForms/obj

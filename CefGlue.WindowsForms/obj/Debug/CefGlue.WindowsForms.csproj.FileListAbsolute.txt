@@ -6,3 +6,13 @@ G:\cefglue.66\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.xml
 G:\cefglue.66\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
 G:\cefglue.66\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
 G:\cefglue.66\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.WindowsForms.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.dll
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.pdb
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.xml
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojAssemblyReference.cache
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csproj.CopyComplete
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Xilium.CefGlue-66.0\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
